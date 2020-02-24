@@ -1,0 +1,15 @@
+#|-----------------------------------------------|
+Subject line try to keep under 50 characters)
+
+#|---------------------------------------------------------------------|
+# Multi-line description of commit, under 72 characters per line
+
+Why:
+
+-
+
+Other micro changes that should have been in their own commits:
+
+-
+# Use "make" tense, not "made" or "makes" or "making" in subject line
+# This file is located at ~/.gitmessage.txt
