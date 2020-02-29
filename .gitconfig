@@ -1,0 +1,12 @@
+[core]
+	editor = code --wait
+	autocrlf = true
+[user]
+	email = bryce.j.mcmath@gmail.com
+	name = Bryce McMath
+[diff]
+    tool = default-difftool
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+[commit]
+		template = ~/.gitmessage.txt
