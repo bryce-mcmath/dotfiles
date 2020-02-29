@@ -1,0 +1,26 @@
+{
+	"python.linting.enabled": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"window.zoomLevel": 0,
+	"editor.fontSize": 16,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"workbench.editor.highlightModifiedTabs": true,
+	"editor.formatOnSave": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"explorer.confirmDelete": false,
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"extensions.ignoreRecommendations": true,
+	"files.trimTrailingWhitespace": true,
+	"prettier.printWidth": 72,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"explorer.confirmDragAndDrop": false,
+	"window.openFoldersInNewWindow": "off",
+	"window.restoreWindows": "none",
+	"window.restoreFullscreen": true,
+	"window.newWindowDimensions": "inherit"
+}
